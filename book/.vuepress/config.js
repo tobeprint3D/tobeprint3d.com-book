@@ -48,7 +48,7 @@ module.exports = {
           '/chapter-01/2020-08-22-getting-a-printer.md',
           '/chapter-01/2020-08-23-making-a-printer.md',
           '/chapter-01/2020-08-24-getting-the-files.md',
-          '/chapter-01/202^0-08-25-getting-the-filaments.md',
+          '/chapter-01/2020-08-25-getting-the-filaments.md',
         ]
       },
       {
@@ -56,8 +56,8 @@ module.exports = {
         icon: 'fas fa-rocket',
         collapsable: true,
         children: [
+          '/chapter-02/2020-08-21-where-to-start.md', 
           '/chapter-02/2020-08-22-getting-an-idea.md',
-          '/chapter-02/2020-08-23-making-a-printer.md', 
         ]
       }
     ],
